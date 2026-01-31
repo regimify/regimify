@@ -1,37 +1,41 @@
 # Regimify
 
-**Regimify** is a developer productivity platform focused on structured data tools.
+**Regimify** is a developer-focused platform for working with structured data, built to support real-world development and debugging workflows.
 
-We build clean, reliable utilities for working with JSON — designed for everyday development workflows.
+It provides simple, reliable tools for validating, comparing, and transforming JSON — without unnecessary complexity or distractions.
 
-## What Regimify offers
+## What you can do with Regimify
 
-- JSON validation
-- JSON comparison (diff)
-- Structured data transformation
-- Fast, browser-based tools
-- Privacy-friendly (no unnecessary data storage)
+- Validate JSON for correctness and structure
+- Compare two JSON objects and identify differences clearly
+- Work with structured data in a predictable, consistent way
+- Use fast, browser-based tools with no setup required
+- Test data safely with a privacy-first approach
 
-## Who it's for
+## Designed for everyday development
+
+Regimify is built for people who regularly work with APIs, configuration files, and structured data, including:
 
 - Software engineers
-- Frontend & backend developers
-- API builders
-- QA engineers
-- Anyone working with structured data
+- Frontend and backend developers
+- API and integration developers
+- QA and testing engineers
+- Anyone debugging or reviewing JSON data
 
-## Philosophy
+## Core principles
 
-Regimify focuses on:
-- Simplicity over complexity
-- Predictable behavior
-- Production-grade reliability
-- Clean, minimal interfaces
+The platform is guided by a few simple ideas:
+
+- Keep tools focused and easy to understand
+- Prefer clarity over feature overload
+- Make behavior predictable and reliable
+- Design interfaces that stay out of the way
+- Respect developer privacy and time
 
 ## Official website
 
-🌐 https://regimify.com/
+https://regimify.com/
 
 ---
 
-Built with a focus on clarity, performance, and developer trust.
+Regimify is built with a focus on practical usefulness, performance, and long-term reliability for developers.
